@@ -4,13 +4,7 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=nepul1234&label=Profile%20views&color=0e75b6&style=flat" alt="nepul1234" /> </p>
  
-<p align="">
-<a href="https://github.com/AVS1508">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=hijal&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=hijal&layout=compact&langs_count=8&theme=algolia"/>
-</a>
-</p>
-
+<img  align="center"  src="https://github-readme-stats.vercel.app/api?username=Nepul1234&theme=dark&show_icons=true&count_private=true" />
 
 
 ## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 30px></picture> About me
